@@ -1,7 +1,7 @@
 # Mingu-Kang
 <div align="center">
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.W&fontSize=60)<br> -->
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Mingu_Kang&fontSize=50)<br>
 <h2>✨Hello, I'm Mingu Kang!✨</h2>
 
 <br>
