@@ -1,8 +1,8 @@
 # Mingu-Kang
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.W&fontSize=60)<br>
-<h2>✨Hello, I'm JongWook!✨</h2>
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.W&fontSize=60)<br> -->
+<h2>✨Hello, I'm Mingu Kang!✨</h2>
 
 <br>
 안녕하세요! 백엔드 개발자 준비중인 강민구입니다!!<br>
