@@ -43,7 +43,6 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 # 📊GitHub Stats :
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username='dev-kmg2331'&layout=compact">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookCoding&show_icons=true&theme=algolia )
 </div>
 
