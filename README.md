@@ -18,8 +18,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
 <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&">
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-![springsecurity-color](https://user-images.githubusercontent.com/115636546/230824473-63f730f3-43ed-4d13-806c-49db85eb0c3b.svg)
-<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white">
+<img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=![springsecurity-color](https://user-images.githubusercontent.com/115636546/230824473-63f730f3-43ed-4d13-806c-49db85eb0c3b.svg)&logoColor=white">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
