@@ -7,6 +7,8 @@
 <br>
 안녕하세요! 백엔드 개발자 준비중인 강민구입니다!!<br>
 "Programming isn’t about what you know; it’s about what you can figure out." <br><br>
+프로그래밍은 무엇을 알고 있는가에 대한 것이 아니다. 그것은 당신이 무엇을 알아낼 수 있는 가에 대한 것이다.<br>
+크리스 파인
 <img src="https://media4.giphy.com/media/H7N6iBKZ1F3dsIQYyd/giphy.gif?cid=ecf05e47apch5oganuy9kqat9bd1q5uo3niyo1nux58eq73r&rid=giphy.gif&ct=g" width="30%">
 <h2>🎈About Me🎈</h2>
 🎓Graduated : HUFS(Hankuk University of Foreign Studies)<br>
