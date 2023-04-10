@@ -7,7 +7,7 @@
 <br>
 안녕하세요! 백엔드 개발자 준비중인 강민구입니다!!<br>
 "Courage is very important when it comes to anything" <br><br>
-[<img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">](https://media4.giphy.com/media/H7N6iBKZ1F3dsIQYyd/giphy.gif?cid=ecf05e47apch5oganuy9kqat9bd1q5uo3niyo1nux58eq73r&rid=giphy.gif&ct=g)
+[<img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">]
 <h2>🎈About Me🎈</h2>
 🎓Graduated : HUFS(Hankuk University of Foreign Studies)<br>
 📜Certificated Korea IT program in Seoul<br>
